@@ -1,0 +1,319 @@
+{
+  "algorithm": "hill-climbing",
+  "seed": 1,
+  "initial_value": 618,
+  "final_value": 791,
+  "iterations": 106,
+  "duration_seconds": 1.385142900000119,
+  "initial_state": {
+    "loaded": [
+      {
+        "id": "V06",
+        "x": 7,
+        "y": 16,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V10",
+        "x": 0,
+        "y": 8,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V11",
+        "x": 0,
+        "y": 17,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V12",
+        "x": 6,
+        "y": 9,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V14",
+        "x": 7,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V15",
+        "x": 8,
+        "y": 6,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V17",
+        "x": 0,
+        "y": 2,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V18",
+        "x": 1,
+        "y": 12,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V21",
+        "x": 3,
+        "y": 6,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V22",
+        "x": 3,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V23",
+        "x": 9,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V24",
+        "x": 4,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V25",
+        "x": 6,
+        "y": 14,
+        "orientation": "HORIZONTAL"
+      }
+    ],
+    "outside": [
+      "V01",
+      "V02",
+      "V03",
+      "V04",
+      "V05",
+      "V07",
+      "V08",
+      "V09",
+      "V13",
+      "V16",
+      "V19",
+      "V20"
+    ]
+  },
+  "final_state": {
+    "loaded": [
+      {
+        "id": "V03",
+        "x": 1,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V08",
+        "x": 7,
+        "y": 15,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V09",
+        "x": 5,
+        "y": 0,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V11",
+        "x": 0,
+        "y": 4,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V13",
+        "x": 3,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V14",
+        "x": 8,
+        "y": 6,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V15",
+        "x": 0,
+        "y": 3,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V17",
+        "x": 8,
+        "y": 17,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V18",
+        "x": 4,
+        "y": 3,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V19",
+        "x": 2,
+        "y": 5,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V20",
+        "x": 3,
+        "y": 18,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V21",
+        "x": 7,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V22",
+        "x": 0,
+        "y": 0,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V23",
+        "x": 6,
+        "y": 11,
+        "orientation": "VERTICAL"
+      }
+    ],
+    "outside": [
+      "V01",
+      "V02",
+      "V04",
+      "V05",
+      "V06",
+      "V07",
+      "V10",
+      "V12",
+      "V16",
+      "V24",
+      "V25"
+    ]
+  },
+  "history": [
+    666,
+    712,
+    727,
+    775,
+    787,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791,
+    791
+  ],
+  "extra": {
+    "max_sideways": 100,
+    "neighbor_limit": 200,
+    "sideways_moves": 100,
+    "stop_reason": "max_sideways"
+  }
+}

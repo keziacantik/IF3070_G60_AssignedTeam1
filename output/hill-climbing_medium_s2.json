@@ -1,0 +1,358 @@
+{
+  "algorithm": "hill-climbing",
+  "seed": 2,
+  "initial_value": 694,
+  "final_value": 779,
+  "iterations": 105,
+  "duration_seconds": 2.025216300000011,
+  "initial_state": {
+    "loaded": [
+      {
+        "id": "V01",
+        "x": 9,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V02",
+        "x": 0,
+        "y": 11,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V04",
+        "x": 6,
+        "y": 13,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V05",
+        "x": 8,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V08",
+        "x": 7,
+        "y": 7,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V11",
+        "x": 0,
+        "y": 13,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V13",
+        "x": 4,
+        "y": 16,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V14",
+        "x": 4,
+        "y": 9,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V15",
+        "x": 8,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V16",
+        "x": 5,
+        "y": 2,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V17",
+        "x": 3,
+        "y": 0,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V18",
+        "x": 0,
+        "y": 19,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V19",
+        "x": 0,
+        "y": 6,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V20",
+        "x": 4,
+        "y": 5,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V21",
+        "x": 2,
+        "y": 14,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V23",
+        "x": 3,
+        "y": 8,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V25",
+        "x": 3,
+        "y": 3,
+        "orientation": "VERTICAL"
+      }
+    ],
+    "outside": [
+      "V03",
+      "V06",
+      "V07",
+      "V09",
+      "V10",
+      "V12",
+      "V22",
+      "V24"
+    ]
+  },
+  "final_state": {
+    "loaded": [
+      {
+        "id": "V01",
+        "x": 5,
+        "y": 19,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V02",
+        "x": 0,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V03",
+        "x": 2,
+        "y": 14,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V04",
+        "x": 0,
+        "y": 8,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V05",
+        "x": 4,
+        "y": 3,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V08",
+        "x": 5,
+        "y": 15,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V11",
+        "x": 8,
+        "y": 2,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V14",
+        "x": 8,
+        "y": 14,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V15",
+        "x": 0,
+        "y": 4,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V16",
+        "x": 5,
+        "y": 4,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V17",
+        "x": 1,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V18",
+        "x": 7,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V19",
+        "x": 2,
+        "y": 8,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V20",
+        "x": 0,
+        "y": 13,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V21",
+        "x": 5,
+        "y": 10,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V22",
+        "x": 3,
+        "y": 0,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V23",
+        "x": 0,
+        "y": 12,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V25",
+        "x": 4,
+        "y": 18,
+        "orientation": "HORIZONTAL"
+      }
+    ],
+    "outside": [
+      "V06",
+      "V07",
+      "V09",
+      "V10",
+      "V12",
+      "V13",
+      "V24"
+    ]
+  },
+  "history": [
+    709,
+    767,
+    767,
+    767,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779,
+    779
+  ],
+  "extra": {
+    "max_sideways": 100,
+    "neighbor_limit": 200,
+    "sideways_moves": 102,
+    "stop_reason": "max_sideways"
+  }
+}
