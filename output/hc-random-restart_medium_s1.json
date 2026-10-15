@@ -1,0 +1,298 @@
+{
+  "algorithm": "hc-random-restart",
+  "seed": 1,
+  "initial_value": 618,
+  "final_value": 806,
+  "iterations": 52,
+  "duration_seconds": 1.7558876000002783,
+  "initial_state": {
+    "loaded": [
+      {
+        "id": "V06",
+        "x": 7,
+        "y": 16,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V10",
+        "x": 0,
+        "y": 8,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V11",
+        "x": 0,
+        "y": 17,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V12",
+        "x": 6,
+        "y": 9,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V14",
+        "x": 7,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V15",
+        "x": 8,
+        "y": 6,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V17",
+        "x": 0,
+        "y": 2,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V18",
+        "x": 1,
+        "y": 12,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V21",
+        "x": 3,
+        "y": 6,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V22",
+        "x": 3,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V23",
+        "x": 9,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V24",
+        "x": 4,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V25",
+        "x": 6,
+        "y": 14,
+        "orientation": "HORIZONTAL"
+      }
+    ],
+    "outside": [
+      "V01",
+      "V02",
+      "V03",
+      "V04",
+      "V05",
+      "V07",
+      "V08",
+      "V09",
+      "V13",
+      "V16",
+      "V19",
+      "V20"
+    ]
+  },
+  "final_state": {
+    "loaded": [
+      {
+        "id": "V01",
+        "x": 4,
+        "y": 5,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V02",
+        "x": 3,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V03",
+        "x": 3,
+        "y": 15,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V08",
+        "x": 7,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V09",
+        "x": 5,
+        "y": 3,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V11",
+        "x": 0,
+        "y": 12,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V14",
+        "x": 2,
+        "y": 6,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V16",
+        "x": 6,
+        "y": 14,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V17",
+        "x": 2,
+        "y": 1,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V18",
+        "x": 2,
+        "y": 14,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V19",
+        "x": 6,
+        "y": 17,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V20",
+        "x": 0,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V21",
+        "x": 0,
+        "y": 5,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V22",
+        "x": 6,
+        "y": 7,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V23",
+        "x": 1,
+        "y": 11,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V25",
+        "x": 5,
+        "y": 12,
+        "orientation": "HORIZONTAL"
+      }
+    ],
+    "outside": [
+      "V04",
+      "V05",
+      "V06",
+      "V07",
+      "V10",
+      "V12",
+      "V13",
+      "V15",
+      "V24"
+    ]
+  },
+  "history": [
+    666,
+    714,
+    739,
+    775,
+    787,
+    791,
+    722,
+    734,
+    685,
+    697,
+    709,
+    729,
+    691,
+    715,
+    763,
+    775,
+    787,
+    697,
+    707,
+    713,
+    728,
+    740,
+    776,
+    782,
+    802,
+    683,
+    723,
+    740,
+    764,
+    774,
+    648,
+    708,
+    723,
+    763,
+    775,
+    779,
+    791,
+    637,
+    697,
+    719,
+    731,
+    773,
+    778,
+    784,
+    664,
+    688,
+    703,
+    739,
+    751,
+    775,
+    797,
+    806
+  ],
+  "extra": {
+    "max_restart": 10,
+    "restarts": 10,
+    "iterations_per_restart": [
+      6,
+      2,
+      4,
+      5,
+      3,
+      5,
+      5,
+      7,
+      7,
+      8
+    ],
+    "value_per_restart": [
+      791,
+      734,
+      729,
+      787,
+      713,
+      802,
+      774,
+      791,
+      784,
+      806
+    ],
+    "best_restart": 9
+  }
+}
