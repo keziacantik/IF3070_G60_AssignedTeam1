@@ -1,0 +1,1120 @@
+{
+  "algorithm": "ga",
+  "seed": 2,
+  "initial_value": 2584,
+  "final_value": 2584,
+  "iterations": 50,
+  "duration_seconds": 69.18578629999683,
+  "initial_state": {
+    "loaded": [
+      {
+        "id": "V01",
+        "x": 9,
+        "y": 19,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V04",
+        "x": 9,
+        "y": 13,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V05",
+        "x": 2,
+        "y": 14,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V06",
+        "x": 11,
+        "y": 18,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V07",
+        "x": 10,
+        "y": 0,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V08",
+        "x": 3,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V09",
+        "x": 2,
+        "y": 5,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V10",
+        "x": 2,
+        "y": 7,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V13",
+        "x": 2,
+        "y": 16,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V14",
+        "x": 11,
+        "y": 16,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V15",
+        "x": 17,
+        "y": 21,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V16",
+        "x": 12,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V17",
+        "x": 3,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V18",
+        "x": 3,
+        "y": 33,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V19",
+        "x": 5,
+        "y": 15,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V20",
+        "x": 0,
+        "y": 19,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V21",
+        "x": 9,
+        "y": 35,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V22",
+        "x": 14,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V23",
+        "x": 11,
+        "y": 19,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V24",
+        "x": 11,
+        "y": 28,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V25",
+        "x": 12,
+        "y": 33,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V26",
+        "x": 5,
+        "y": 11,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V27",
+        "x": 11,
+        "y": 25,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V28",
+        "x": 10,
+        "y": 5,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V29",
+        "x": 8,
+        "y": 7,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V30",
+        "x": 7,
+        "y": 17,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V31",
+        "x": 1,
+        "y": 27,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V32",
+        "x": 8,
+        "y": 26,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V33",
+        "x": 8,
+        "y": 39,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V34",
+        "x": 18,
+        "y": 28,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V35",
+        "x": 14,
+        "y": 19,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V36",
+        "x": 1,
+        "y": 10,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V37",
+        "x": 0,
+        "y": 2,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V38",
+        "x": 7,
+        "y": 9,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V39",
+        "x": 1,
+        "y": 23,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V40",
+        "x": 5,
+        "y": 25,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V41",
+        "x": 3,
+        "y": 36,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V42",
+        "x": 14,
+        "y": 9,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V43",
+        "x": 18,
+        "y": 36,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V44",
+        "x": 17,
+        "y": 2,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V45",
+        "x": 2,
+        "y": 39,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V46",
+        "x": 15,
+        "y": 32,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V47",
+        "x": 7,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V48",
+        "x": 12,
+        "y": 27,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V49",
+        "x": 9,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V50",
+        "x": 12,
+        "y": 9,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V52",
+        "x": 0,
+        "y": 30,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V53",
+        "x": 12,
+        "y": 37,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V54",
+        "x": 12,
+        "y": 29,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V55",
+        "x": 6,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V56",
+        "x": 4,
+        "y": 30,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V58",
+        "x": 13,
+        "y": 26,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V59",
+        "x": 17,
+        "y": 27,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V60",
+        "x": 16,
+        "y": 3,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V61",
+        "x": 0,
+        "y": 33,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V62",
+        "x": 3,
+        "y": 3,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V63",
+        "x": 4,
+        "y": 21,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V64",
+        "x": 14,
+        "y": 13,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V67",
+        "x": 8,
+        "y": 37,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V68",
+        "x": 12,
+        "y": 22,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V69",
+        "x": 14,
+        "y": 28,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V70",
+        "x": 14,
+        "y": 3,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V71",
+        "x": 6,
+        "y": 20,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V72",
+        "x": 16,
+        "y": 23,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V73",
+        "x": 9,
+        "y": 31,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V74",
+        "x": 17,
+        "y": 9,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V75",
+        "x": 7,
+        "y": 32,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V76",
+        "x": 0,
+        "y": 22,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V77",
+        "x": 16,
+        "y": 16,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V78",
+        "x": 4,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V79",
+        "x": 19,
+        "y": 8,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V80",
+        "x": 7,
+        "y": 5,
+        "orientation": "VERTICAL"
+      }
+    ],
+    "outside": [
+      "V02",
+      "V03",
+      "V11",
+      "V12",
+      "V51",
+      "V57",
+      "V65",
+      "V66"
+    ]
+  },
+  "final_state": {
+    "loaded": [
+      {
+        "id": "V01",
+        "x": 9,
+        "y": 19,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V04",
+        "x": 9,
+        "y": 13,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V05",
+        "x": 2,
+        "y": 14,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V06",
+        "x": 11,
+        "y": 18,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V07",
+        "x": 10,
+        "y": 0,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V08",
+        "x": 3,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V09",
+        "x": 2,
+        "y": 5,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V10",
+        "x": 2,
+        "y": 7,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V13",
+        "x": 2,
+        "y": 16,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V14",
+        "x": 11,
+        "y": 16,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V15",
+        "x": 17,
+        "y": 21,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V16",
+        "x": 12,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V17",
+        "x": 3,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V18",
+        "x": 3,
+        "y": 33,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V19",
+        "x": 5,
+        "y": 15,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V20",
+        "x": 0,
+        "y": 19,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V21",
+        "x": 9,
+        "y": 35,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V22",
+        "x": 14,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V23",
+        "x": 11,
+        "y": 19,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V24",
+        "x": 11,
+        "y": 28,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V25",
+        "x": 12,
+        "y": 33,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V26",
+        "x": 5,
+        "y": 11,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V27",
+        "x": 11,
+        "y": 25,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V28",
+        "x": 10,
+        "y": 5,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V29",
+        "x": 8,
+        "y": 7,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V30",
+        "x": 7,
+        "y": 17,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V31",
+        "x": 1,
+        "y": 27,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V32",
+        "x": 8,
+        "y": 26,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V33",
+        "x": 8,
+        "y": 39,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V34",
+        "x": 18,
+        "y": 28,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V35",
+        "x": 14,
+        "y": 19,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V36",
+        "x": 1,
+        "y": 10,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V37",
+        "x": 0,
+        "y": 2,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V38",
+        "x": 7,
+        "y": 9,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V39",
+        "x": 1,
+        "y": 23,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V40",
+        "x": 5,
+        "y": 25,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V41",
+        "x": 3,
+        "y": 36,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V42",
+        "x": 14,
+        "y": 9,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V43",
+        "x": 18,
+        "y": 36,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V44",
+        "x": 17,
+        "y": 2,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V45",
+        "x": 2,
+        "y": 39,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V46",
+        "x": 15,
+        "y": 32,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V47",
+        "x": 7,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V48",
+        "x": 12,
+        "y": 27,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V49",
+        "x": 9,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V50",
+        "x": 12,
+        "y": 9,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V52",
+        "x": 0,
+        "y": 30,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V53",
+        "x": 12,
+        "y": 37,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V54",
+        "x": 12,
+        "y": 29,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V55",
+        "x": 6,
+        "y": 1,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V56",
+        "x": 4,
+        "y": 30,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V58",
+        "x": 13,
+        "y": 26,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V59",
+        "x": 17,
+        "y": 27,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V60",
+        "x": 16,
+        "y": 3,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V61",
+        "x": 0,
+        "y": 33,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V62",
+        "x": 3,
+        "y": 3,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V63",
+        "x": 4,
+        "y": 21,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V64",
+        "x": 14,
+        "y": 13,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V67",
+        "x": 8,
+        "y": 37,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V68",
+        "x": 12,
+        "y": 22,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V69",
+        "x": 14,
+        "y": 28,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V70",
+        "x": 14,
+        "y": 3,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V71",
+        "x": 6,
+        "y": 20,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V72",
+        "x": 16,
+        "y": 23,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V73",
+        "x": 9,
+        "y": 31,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V74",
+        "x": 17,
+        "y": 9,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V75",
+        "x": 7,
+        "y": 32,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V76",
+        "x": 0,
+        "y": 22,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V77",
+        "x": 16,
+        "y": 16,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V78",
+        "x": 4,
+        "y": 0,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V79",
+        "x": 19,
+        "y": 8,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V80",
+        "x": 7,
+        "y": 5,
+        "orientation": "VERTICAL"
+      }
+    ],
+    "outside": [
+      "V02",
+      "V03",
+      "V11",
+      "V12",
+      "V51",
+      "V57",
+      "V65",
+      "V66"
+    ]
+  },
+  "history": [
+    2521,
+    2502,
+    2489,
+    2478,
+    2472,
+    2465,
+    2521,
+    2534,
+    2524,
+    2560,
+    2526,
+    2488,
+    2477,
+    2552,
+    2548,
+    2468,
+    2498,
+    2500,
+    2456,
+    2501,
+    2547,
+    2511,
+    2513,
+    2570,
+    2483,
+    2494,
+    2524,
+    2459,
+    2477,
+    2496,
+    2520,
+    2503,
+    2487,
+    2437,
+    2498,
+    2493,
+    2463,
+    2496,
+    2520,
+    2545,
+    2511,
+    2518,
+    2556,
+    2518,
+    2549,
+    2573,
+    2507,
+    2489,
+    2488,
+    2510
+  ],
+  "extra": {
+    "max_per_generation": [
+      2584,
+      2521,
+      2502,
+      2489,
+      2478,
+      2472,
+      2465,
+      2521,
+      2534,
+      2524,
+      2560,
+      2526,
+      2488,
+      2477,
+      2552,
+      2548,
+      2468,
+      2498,
+      2500,
+      2456,
+      2501,
+      2547,
+      2511,
+      2513,
+      2570,
+      2483,
+      2494,
+      2524,
+      2459,
+      2477,
+      2496,
+      2520,
+      2503,
+      2487,
+      2437,
+      2498,
+      2493,
+      2463,
+      2496,
+      2520,
+      2545,
+      2511,
+      2518,
+      2556,
+      2518,
+      2549,
+      2573,
+      2507,
+      2489,
+      2488,
+      2510
+    ],
+    "mean_per_generation": [
+      2368.06,
+      2317.9,
+      2307.68,
+      2296.58,
+      2304.46,
+      2301.12,
+      2299.8,
+      2306.28,
+      2315.04,
+      2329.52,
+      2316.22,
+      2312.74,
+      2320.76,
+      2318.32,
+      2329.44,
+      2349.34,
+      2332.96,
+      2335.76,
+      2328.7,
+      2311.42,
+      2318.94,
+      2324.88,
+      2325.18,
+      2328.78,
+      2328.6,
+      2317.1,
+      2306.08,
+      2297.86,
+      2323.92,
+      2340.6,
+      2329.98,
+      2338.72,
+      2308.22,
+      2280.62,
+      2307.84,
+      2310.46,
+      2308.84,
+      2334.96,
+      2321.92,
+      2343.4,
+      2333.26,
+      2320.84,
+      2329.98,
+      2343.66,
+      2332.54,
+      2310.68,
+      2338.3,
+      2348.18,
+      2344.76,
+      2309.74,
+      2338.04
+    ],
+    "best_history": [
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584,
+      2584
+    ],
+    "best_value": 2584,
+    "best_generation": 0,
+    "parameters": {
+      "population_size": 50,
+      "iterations": 50,
+      "mutation_rate": 0.1,
+      "fill_tries": 10
+    }
+  }
+}
