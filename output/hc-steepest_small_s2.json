@@ -1,0 +1,58 @@
+{
+  "algorithm": "hc-steepest",
+  "seed": 2,
+  "initial_value": 100,
+  "final_value": 100,
+  "iterations": 0,
+  "duration_seconds": 0.0005215000128373504,
+  "initial_state": {
+    "loaded": [
+      {
+        "id": "V01",
+        "x": 8,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V02",
+        "x": 2,
+        "y": 5,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V03",
+        "x": 2,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      }
+    ],
+    "outside": []
+  },
+  "final_state": {
+    "loaded": [
+      {
+        "id": "V01",
+        "x": 8,
+        "y": 11,
+        "orientation": "VERTICAL"
+      },
+      {
+        "id": "V02",
+        "x": 2,
+        "y": 5,
+        "orientation": "HORIZONTAL"
+      },
+      {
+        "id": "V03",
+        "x": 2,
+        "y": 13,
+        "orientation": "HORIZONTAL"
+      }
+    ],
+    "outside": []
+  },
+  "history": [],
+  "extra": {
+    "stop_reason": "local_optimum"
+  }
+}
