@@ -19,3 +19,4 @@ def register(name: str) -> Callable[[Type[LocalSearch]], Type[LocalSearch]]:
 from . import baseline  # noqa: E402,F401
 from . import hill_climbing  # noqa: E402,F401
 from . import simulated_annealing  # noqa: E402,F401
+from . import genetic  # noqa: E402,F401
